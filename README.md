@@ -1,5 +1,7 @@
 # Vio Browser
 
+A fine-tuned firefox experience
+
 Overrides can be found at path:
 -> `~/.viobrowser/vio.overrides.cfg`
 
